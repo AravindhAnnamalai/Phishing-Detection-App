@@ -1,2 +1,3 @@
 streamlit==1.33.0
 tensorflow==2.16.1
+https://phishing-detection-app-tk8eo31.streamlit.app/
